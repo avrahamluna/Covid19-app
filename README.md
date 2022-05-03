@@ -7,3 +7,7 @@
 ## Admin UI
 
 ![alt text](https://github.com/avrahamluna/Covid19-app/blob/main/Covid-19/images/Admin-UI.PNG?raw=true)
+
+## Android UI
+
+![alt text](https://github.com/avrahamluna/Covid19-app/blob/main/Covid-19/images/Android-UI-2.PNG?raw=true)
