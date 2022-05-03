@@ -4,3 +4,6 @@
 
 ![alt text](https://github.com/avrahamluna/Covid19-app/blob/main/Covid-19/images/Covid-UI.PNG?raw=true)
 
+## Admin UI
+
+![alt text](https://github.com/avrahamluna/Covid19-app/blob/main/Covid-19/images/Admin-UI.PNG?raw=true)
