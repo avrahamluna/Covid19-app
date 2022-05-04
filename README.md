@@ -10,4 +10,4 @@
 
 ## Android UI
 
-![alt text](https://github.com/avrahamluna/Covid19-app/blob/main/Covid-19/images/Android-UI-3.PNG?raw=true)
+![alt text](https://github.com/avrahamluna/Covid19-app/blob/main/Covid-19/images/Android-UI-4.PNG?raw=true)
