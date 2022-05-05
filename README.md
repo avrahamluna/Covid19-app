@@ -8,6 +8,15 @@
 
 ![alt text](https://github.com/avrahamluna/Covid19-app/blob/main/Covid-19/images/Admin-UI.PNG?raw=true)
 
+## Web Service
+
+![alt text](https://github.com/avrahamluna/Covid19-app/blob/main/Covid-19/images/server-.PNG?raw=true)
+
+## XML COde
+
+![alt text](https://github.com/avrahamluna/Covid19-app/blob/main/Covid-19/images/xml code.PNG?raw=true)
+
+
 ## Android UI
 
 ![alt text](https://github.com/avrahamluna/Covid19-app/blob/main/Covid-19/images/Android-UI-4.png?raw=true)
