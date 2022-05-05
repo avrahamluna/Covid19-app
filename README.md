@@ -12,7 +12,7 @@
 
 ![alt text](https://github.com/avrahamluna/Covid19-app/blob/main/Covid-19/images/server-.PNG?raw=true)
 
-## XML COde
+## XML Code
 
 ![alt text](https://github.com/avrahamluna/Covid19-app/blob/main/Covid-19/images/xml%20code.png?raw=true)
 
